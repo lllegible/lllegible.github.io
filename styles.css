@@ -1,0 +1,34 @@
+body {
+    background-color: #000000;
+    font-family: Gill Sans;
+}
+h1 {
+    color: #ffffff;
+}
+p {
+    color: #ff0000;
+    font-size: 20px;
+}
+a {
+    color: cyan;
+    font-size:25px;
+    font-weight: bold;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+ul { 
+    list-style-type: '- '; 
+}
+nav {
+    color:cyan;
+    font-size:25px;
+}
+td {
+    color: #ffffff;
+    font-size: 20px;
+    padding: 20px;
+    border: 5px solid rgb(0, 25, 34);
+}
+
